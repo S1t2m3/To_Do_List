@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    background-color:rgb(211, 228, 248);
+    color:black;
+}
+form input{
+    width:300px;
+    height:30px;
+    padding:5px;
+    font-size:20px;
+    padding-left:5px;
+    border-radius:10px;
+}
+form button{
+    height:40px;
+    padding:5px;
+    font-size:20px;
+}
+form{
+    margin-bottom:40px;
+}
+  
+ 
